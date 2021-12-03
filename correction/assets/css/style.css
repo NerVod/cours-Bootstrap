@@ -1,0 +1,24 @@
+.green{
+    background-color: aquamarine;
+}
+.pink{
+    background-color: pink;
+}
+.yellow{
+    background-color: yellow;
+}
+.tomato{
+    background-color: tomato;
+}
+.blue{
+    background-color:cadetblue;
+}
+.grey{
+    background-color: lightgray;
+}
+/* Personnalisation icon */
+.bi{
+    font-size : 2em;
+    color: orangered;
+    font-weight: bold;
+}
